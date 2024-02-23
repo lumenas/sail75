@@ -1,0 +1,9 @@
+# ...
+
+config = Configurator(
+    # ...
+    authentication_policy=authentication_policy,
+    authorization_policy=authorization_policy,
+)
+
+# ...
